@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "Aister Pendragon",
+    "email": "aister.pendragon@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/aister/shortlink-checker/issues"
+  },
+  "dependencies": {
+    "request": "2.76.0"
+  },
+  "description": "Check for shortlink and redirects",
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "homepage": "https://github.com/aister/shortlink-checker",
+  "license": "MIT",
+  "name": "shortlink-checker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aister/shortlink-checker.git"
+  },
+  "version": "1.0.0"
+}

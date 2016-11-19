@@ -11,7 +11,7 @@
   },
   "description": "Check for shortlink and redirects",
   "engines": {
-    "node": ">= 0.10"
+    "node": ">= 0.10.x"
   },
   "files": [
     "LICENSE",

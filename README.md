@@ -4,7 +4,6 @@
 [![NPM Downloads][downloads-image]][downloads-url]
 [![Node.js Version][node-version-image]][node-version-url]
 [![Build Status][travis-image]][travis-url]
-[![Test Coverage][coveralls-image]][coveralls-url]
 
 Check for Shortlink redirects.
 
@@ -36,7 +35,5 @@ checker(url).then((err, result) => {
 [node-version-url]: http://nodejs.org/download/
 [travis-image]: https://img.shields.io/travis/aister/shortlink-checker/master.svg
 [travis-url]: https://travis-ci.org/aister/shortlink-checker
-[coveralls-image]: https://img.shields.io/coveralls/aister/shortlink-checker/master.svg
-[coveralls-url]: https://coveralls.io/r/aister/shortlink-checker?branch=master
 [downloads-image]: https://img.shields.io/npm/dm/shortlink-checker.svg
 [downloads-url]: https://npmjs.org/package/shortlink-checker
